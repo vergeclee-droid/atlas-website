@@ -1,0 +1,6 @@
+# Sensitive / internal files
+company-materials/
+current-site.html
+previews/
+.DS_Store
+*.log
