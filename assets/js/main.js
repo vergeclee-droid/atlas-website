@@ -3,6 +3,8 @@
    ========================================= */
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Init i18n language from saved preference
+    if (typeof initLanguage === 'function') initLanguage();
 
     // ---- Navbar scroll effect ----
     const navbar = document.getElementById('navbar');
@@ -92,12 +94,12 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             const btn = form.querySelector('button[type="submit"]');
             const originalText = btn.textContent;
-            btn.textContent = '发送中...';
+            btn.textContent = getText('form.sending');
             btn.disabled = true;
 
             // Simulate send — you can replace this with Formspree / Web3Forms / Azure Function
             setTimeout(() => {
-                btn.textContent = '✓ 已发送，我们会尽快联系您';
+                btn.textContent = getText('form.sent');
                 btn.style.background = '#22c55e';
                 setTimeout(() => {
                     btn.textContent = originalText;

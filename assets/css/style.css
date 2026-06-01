@@ -165,6 +165,54 @@ section { padding: 100px 0; }
 .nav-toggle.active span:nth-child(2) { opacity: 0; }
 .nav-toggle.active span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
 
+/* ---- Language Switcher ---- */
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.lang-switcher {
+    display: flex;
+    gap: 2px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+    padding: 3px;
+}
+.navbar.scrolled .lang-switcher {
+    background: var(--accent-light);
+}
+.lang-btn {
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: transparent;
+    color: rgba(255,255,255,0.6);
+    font-family: var(--font-en);
+    transition: var(--transition);
+    letter-spacing: 0.5px;
+}
+.navbar.scrolled .lang-btn {
+    color: var(--text-light);
+}
+.lang-btn:hover {
+    color: var(--text-white);
+}
+.navbar.scrolled .lang-btn:hover {
+    color: var(--primary);
+}
+.lang-btn.active {
+    background: rgba(255,255,255,0.2);
+    color: var(--text-white);
+}
+.navbar.scrolled .lang-btn.active {
+    background: white;
+    color: var(--primary);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
 /* ---- HERO ---- */
 .hero {
     min-height: 100vh;
@@ -678,22 +726,24 @@ section { padding: 100px 0; }
     section { padding: 60px 0; }
     .section-header h2 { font-size: 1.8rem; }
     .hero-text h1 { font-size: 2.2rem; }
-    .nav-toggle { display: flex; }
     .nav-menu {
         position: fixed;
-        top: 0;
+        top: 70px;
         left: 0;
         right: 0;
         bottom: 0;
         background: var(--primary);
         flex-direction: column;
-        justify-content: center;
-        gap: 32px;
+        justify-content: flex-start;
+        padding-top: 40px;
+        gap: 28px;
         transform: translateX(100%);
         transition: var(--transition);
         opacity: 0;
+        z-index: 998;
     }
     .nav-menu.open { transform: translateX(0); opacity: 1; }
+    .nav-toggle { display: flex; z-index: 999; position: relative; }
     .nav-link { font-size: 1.2rem; color: white !important; }
     .nav-cta { background: var(--accent); }
     .about-content { grid-template-columns: 1fr; gap: 40px; }
