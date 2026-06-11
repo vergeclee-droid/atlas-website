@@ -1267,23 +1267,62 @@ textarea.error {
     flex-wrap: wrap;
 }
 
-/* Demo button inside AI card on homepage */
-.service-card-ai .ai-demo-btn {
-    display: inline-block;
-    margin-top: 16px;
-    padding: 6px 18px;
-    border: 1px solid rgba(255,255,255,0.5);
-    border-radius: 20px;
-    color: rgba(255,255,255,0.9);
-    font-size: 0.85rem;
-    font-weight: 500;
-    transition: var(--transition);
+/* Card actions row inside AI card on homepage */
+.ai-card-actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 20px;
 }
 
-.service-card-ai .ai-demo-btn:hover {
+.ai-card-actions .ai-card-link {
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.9);
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: var(--transition);
+    text-decoration: none;
+}
+
+.ai-card-actions .ai-card-link:hover {
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.ai-card-actions .ai-demo-btn {
+    display: inline-block;
+    padding: 8px 20px;
+    border: 1px solid rgba(255,255,255,0.5);
+    border-radius: 8px;
+    color: rgba(255,255,255,0.9);
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: var(--transition);
+    text-decoration: none;
+}
+
+.ai-card-actions .ai-demo-btn:hover {
     background: rgba(255,255,255,0.15);
     border-color: rgba(255,255,255,0.8);
     color: #fff;
+    transform: translateY(-1px);
+}
+
+/* VO bullet link in AI card list */
+.service-card-ai .sc-list li a {
+    color: #b794f4;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(183, 148, 244, 0.3);
+    transition: var(--transition);
+}
+
+.service-card-ai .sc-list li a:hover {
+    color: #d8b4fe;
+    border-bottom-color: #d8b4fe;
 }
 
 @media (max-width: 768px) {
