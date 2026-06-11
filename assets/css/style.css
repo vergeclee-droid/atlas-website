@@ -515,6 +515,30 @@ body[style*="font-family: var(--font-en)"] .case-type {
     color: inherit;
     display: block;
 }
+/* AI Innovation — full-width hero card at top */
+.service-ai-wide { grid-column: 1 / -1; }
+.service-card-ai {
+    background: linear-gradient(135deg, var(--primary) 0%, #1a2a5c 50%, #2d1f6e 100%) !important;
+    border-color: rgba(124, 58, 237, 0.3) !important;
+    position: relative;
+    overflow: hidden;
+    padding: 48px 40px;
+}
+.service-card-ai::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--accent-gradient-ai), #a855f7, var(--accent));
+}
+.service-card-ai h3 { color: #fff !important; font-size: 1.5rem; }
+.service-card-ai p { color: rgba(255,255,255,0.75) !important; }
+.service-card-ai .sc-list li { color: rgba(255,255,255,0.7) !important; }
+.service-card-ai .sc-list li::before { color: #a855f7 !important; }
+.service-card-ai .sc-icon { width: 64px; height: 64px; border-radius: 16px; }
+.service-card-ai .sc-icon svg { width: 36px; height: 36px; }
 .service-card-link:focus-visible {
     outline: none;
 }
