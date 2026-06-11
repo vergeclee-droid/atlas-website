@@ -86,6 +86,7 @@ const i18n = {
     'svc.ai.l2': 'Microsoft Copilot 导入',
     'svc.ai.l3': 'GPU集群部署',
     'svc.ai.l4': '数字化转型咨询',
+    'svc.ai.l5': 'Virtual Office AI 部署 — 人機協作，辦公新紀元',
 
     /* Cases */
     'cases.tag': '客户案例',
@@ -176,6 +177,7 @@ const i18n = {
     'phone': '电话',
     'email': '电邮',
     'nav.label': '菜单',
+    'demo.cta': '预约演示',
   },
 
   /* ===== Traditional Chinese ===== */
@@ -255,6 +257,7 @@ const i18n = {
     'svc.ai.l2': 'Microsoft Copilot 導入',
     'svc.ai.l3': 'GPU叢集部署',
     'svc.ai.l4': '數位轉型諮詢',
+    'svc.ai.l5': 'Virtual Office AI 部署 — 人機協作，辦公新紀元',
 
     'cases.tag': '客戶案例',
     'cases.title': '我們的成功實踐',
@@ -339,6 +342,7 @@ const i18n = {
     'phone': '電話',
     'email': '電郵',
     'nav.label': '選單',
+    'demo.cta': '預約演示',
   },
 
   /* ===== English ===== */
@@ -418,6 +422,7 @@ const i18n = {
     'svc.ai.l2': 'Microsoft Copilot Deployment',
     'svc.ai.l3': 'GPU Cluster Deployment',
     'svc.ai.l4': 'Digital Transformation Consulting',
+    'svc.ai.l5': 'Virtual Office AI — Agents + Humans, The New Century of Office',
 
     'cases.tag': 'Case Studies',
     'cases.title': 'Our Success Stories',
@@ -502,6 +507,7 @@ const i18n = {
     'phone': 'Phone',
     'email': 'Email',
     'nav.label': 'Menu',
+    'demo.cta': 'Request Demo',
   }
 };
 
