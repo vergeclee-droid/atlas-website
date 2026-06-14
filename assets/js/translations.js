@@ -17,7 +17,7 @@ const i18n = {
     'hero.badge': 'Your IT Bridge to China',
     'hero.title': '助力出海 · 护航入华<br><span class="highlight">一站式IT企业解决方案</span>',
     'hero.tagline': '科技桥梁，跨境无界',
-    'hero.desc': '輿圖顧問 · 亘帛資訊科技（Atlas Consulting Service Ltd）自2020年成立，专注为国内外企业提供系统、网络、安全与云服务。',
+    'hero.desc': '輿圖顧問 · 亘帛資訊科技（Altas Consulting Service Co. Ltd）自2020年成立，专注为国内外企业提供系统、网络、安全与云服务。',
     'hero.btn1': '探索服务',
     'hero.btn2': '联系我们',
 
@@ -31,7 +31,7 @@ const i18n = {
     'about.tag': '关于我们',
     'about.title': '科技桥梁，跨境无界',
     'about.desc': '以技术消除边界，以服务创造价值 — 做企业全球化的IT基石',
-    'about.p1': '<strong>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司</strong>（Atlas Consulting Service Ltd）于2020年成立于香港与上海，是一站式IT企业解决方案提供商，专注于系统、网络、安全和云服务。',
+    'about.p1': '<strong>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司</strong>（Altas Consulting Service Co. Ltd）于2020年成立于香港与上海，是一站式IT企业解决方案提供商，专注于系统、网络、安全和云服务。',
     'about.p2': '我们定位为 <strong>「Your IT Bridge to China」</strong> — <strong>助力中国企业出海</strong>，为走向全球的企业提供可靠的IT基础设施与运维保障；<strong>护航国际企业进入中国</strong>，帮助跨国企业在中国落地本地化IT架构与合规方案。',
     'about.p3': '我们的专业服务涵盖跨系统、网络和安全的设计与支持，在供应商管理、IT项目管理和解决方案咨询方面拥有丰富的实战经验，长期服务于500强企业与高成长中小企业。',
     'about.feat1': 'Microsoft Azure Expert 团队',
@@ -153,7 +153,7 @@ const i18n = {
     /* Footer */
     'footer.brand': 'Your IT Bridge to China',
     'footer.tagline': '科技桥梁，跨境无界',
-    'footer.company': '輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司<br>Atlas Consulting Service Ltd',
+    'footer.company': '輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司<br>Altas Consulting Service Co. Ltd',
     'footer.links': '快速链接',
     'footer.link1': '关于我们',
     'footer.link2': '服务范围',
@@ -165,7 +165,7 @@ const i18n = {
     'footer.service3': '网络与安全',
     'footer.service4': 'AI与创新科技',
     'footer.contact_title': '联系方式',
-    'footer.copyright': '© 2026 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司 — Atlas Consulting Service Ltd. All rights reserved.',
+    'footer.copyright': '© 2026 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司 — Altas Consulting Service Co. Ltd. All rights reserved.',
 
     /* Language names */
     'lang.zh-cn': '简体中文',
@@ -191,7 +191,7 @@ const i18n = {
     'hero.badge': 'Your IT Bridge to China',
     'hero.title': '助力出海 · 護航入華<br><span class="highlight">一站式IT企業解決方案</span>',
     'hero.tagline': '科技橋樑，跨境無界',
-    'hero.desc': '輿圖顧問 · 亘帛資訊科技（Atlas Consulting Service Ltd）自2020年成立，專注為國內外企業提供系統、網路、安全與雲端服務。',
+    'hero.desc': '輿圖顧問 · 亘帛資訊科技（Altas Consulting Service Co. Ltd）自2020年成立，專注為國內外企業提供系統、網路、安全與雲端服務。',
     'hero.btn1': '探索服務',
     'hero.btn2': '聯繫我們',
 
@@ -203,7 +203,7 @@ const i18n = {
     'about.tag': '關於我們',
     'about.title': '科技橋樑，跨境無界',
     'about.desc': '以技術消除邊界，以服務創造價值 — 做企業全球化的IT基石',
-    'about.p1': '<strong>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司</strong>（Atlas Consulting Service Ltd）於2020年成立於香港與上海，是一站式IT企業解決方案提供商，專注於系統、網路、安全和雲端服務。',
+    'about.p1': '<strong>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司</strong>（Altas Consulting Service Co. Ltd）於2020年成立於香港與上海，是一站式IT企業解決方案提供商，專注於系統、網路、安全和雲端服務。',
     'about.p2': '我們定位為 <strong>「Your IT Bridge to China」</strong> — <strong>助力中國企業出海</strong>，為走向全球的企業提供可靠的IT基礎設施與運維保障；<strong>護航國際企業進入中國</strong>，幫助跨國企業在中國落地本地化IT架構與合規方案。',
     'about.p3': '我們的專業服務涵蓋跨系統、網路和安全的設計與支援，在供應商管理、IT專案管理和解決方案諮詢方面擁有豐富的實戰經驗，長期服務於500強企業與高成長中小企業。',
     'about.feat1': 'Microsoft Azure Expert 團隊',
@@ -320,7 +320,7 @@ const i18n = {
 
     'footer.brand': 'Your IT Bridge to China',
     'footer.tagline': '科技橋樑，跨境無界',
-    'footer.company': '輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司<br>Atlas Consulting Service Ltd',
+    'footer.company': '輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司<br>Altas Consulting Service Co. Ltd',
     'footer.links': '快速連結',
     'footer.link1': '關於我們',
     'footer.link2': '服務範圍',
@@ -332,7 +332,7 @@ const i18n = {
     'footer.service3': '網路與安全',
     'footer.service4': 'AI與創新科技',
     'footer.contact_title': '聯絡方式',
-    'footer.copyright': '© 2026 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司 — Atlas Consulting Service Ltd. All rights reserved.',
+    'footer.copyright': '© 2026 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司 — Altas Consulting Service Co. Ltd. All rights reserved.',
 
     'lang.zh-cn': '简体中文',
     'lang.zh-tw': '繁體中文',
@@ -356,7 +356,7 @@ const i18n = {
     'hero.badge': 'Your IT Bridge to China',
     'hero.title': 'Empowering Global Expansion<br><span class="highlight">One-Stop IT Enterprise Solutions</span>',
     'hero.tagline': 'Tech Bridge, Borderless Cross-Border',
-    'hero.desc': 'Atlas Consulting Service Ltd — established in 2020, we specialize in systems, networking, security, and cloud services for enterprises across China and the globe.',
+    'hero.desc': 'Altas Consulting Service Co. Ltd — established in 2020, we specialize in systems, networking, security, and cloud services for enterprises across China and the globe.',
     'hero.btn1': 'Explore Services',
     'hero.btn2': 'Contact Us',
 
@@ -368,7 +368,7 @@ const i18n = {
     'about.tag': 'About Us',
     'about.title': 'Tech Bridge, Borderless Cross-Border',
     'about.desc': 'Eliminate boundaries with technology, create value with service — the IT foundation for global enterprises',
-    'about.p1': '<strong>Atlas Consulting Service Ltd</strong> was founded in 2020 with dual headquarters in Hong Kong and Shanghai, serving as a one-stop IT enterprise solutions provider specializing in systems, networking, security, and cloud services.',
+    'about.p1': '<strong>Altas Consulting Service Co. Ltd</strong> was founded in 2020 with dual headquarters in Hong Kong and Shanghai, serving as a one-stop IT enterprise solutions provider specializing in systems, networking, security, and cloud services.',
     'about.p2': 'We position ourselves as <strong>Your IT Bridge to China</strong> — <strong>empowering Chinese enterprises to go global</strong> with reliable IT infrastructure and operations support, while <strong>enabling international enterprises to enter China</strong> with localized IT architecture and compliance solutions.',
     'about.p3': 'Our expertise spans cross-system, network, and security design and support. With extensive hands-on experience in vendor management, IT project management, and solution consulting, we serve Fortune 500 companies and high-growth SMEs alike.',
     'about.feat1': 'Microsoft Azure Expert Team',
@@ -485,7 +485,7 @@ const i18n = {
 
     'footer.brand': 'Your IT Bridge to China',
     'footer.tagline': 'Tech Bridge, Borderless Cross-Border',
-    'footer.company': 'Atlas Consulting Service Ltd<br>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司',
+    'footer.company': 'Altas Consulting Service Co. Ltd<br>輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司',
     'footer.links': 'Quick Links',
     'footer.link1': 'About Us',
     'footer.link2': 'Services',
@@ -497,7 +497,7 @@ const i18n = {
     'footer.service3': 'Network & Security',
     'footer.service4': 'AI & Innovation',
     'footer.contact_title': 'Contact',
-    'footer.copyright': '© 2026 Atlas Consulting Service Ltd — 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司. All rights reserved.',
+    'footer.copyright': '© 2026 Altas Consulting Service Co. Ltd — 輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司. All rights reserved.',
 
     'lang.zh-cn': '简体中文',
     'lang.zh-tw': '繁體中文',
