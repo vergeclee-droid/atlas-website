@@ -1,0 +1,29 @@
+# Atlas Consulting — Your IT Bridge to China
+
+> 一站式IT企业解决方案提供商 · 助力中国企业出海，护航国际企业进入中国
+
+## About
+輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司（Altas Consulting Service Co. Ltd）成立于2020年，双总部位于香港与上海。专注于系统、网络、安全和云服务的一站式IT企业解决方案提供商。
+
+## Services
+- [AI & Innovation](/services/ai-innovation.html) — AI一体机方案、Microsoft Copilot导入、GPU集群部署、数字化转型咨询
+- [Cloud Services](/services/cloud.html) — 混合云架构、云端迁移与优化、PaaS/虚拟化、云安全与合规（AWS、Azure、阿里云、天翼云）
+- [Infrastructure](/services/infrastructure.html) — 服务器与存储架构、虚拟化与超融合、基础设施优化、灾备与业务连续性
+- [Network & Security](/services/network-security.html) — SD-WAN、无线安全评估、Fortinet/Aruba方案、网络安全审计
+- [Microsoft 365](/services/microsoft-365.html) — M365迁移与部署、SharePoint/OneDrive、Teams、Security & Compliance
+- [Hardware & Equipment](/services/hardware.html) — 设备采购租赁、维护保养、Device Management、数据擦除
+- [Professional Services](/services/professional.html) — IT咨询与项目管理、现场/远程工程师支持、IT培训、供应商管理
+
+## Case Studies
+国际物流集团、AI芯片科技公司、金融机构、跨国金融数据集团、国际贸易集团、科技公司
+
+## Partners
+Microsoft (VAR + Delegated Admin Partner), AWS, 中国电信天翼云, Aruba HPE, Fortinet, Ingram Micro
+
+## Contact
+- **Hong Kong:** +852 8490 0947 / +852 9401 9304
+- **Shanghai:** +86 158 2110 6096
+- **Email:** info@atlasconsulting.cn
+- **Web:** https://www.atlasconsulting.cn/
+
+For full details, see [llms-full.txt](llms-full.txt).

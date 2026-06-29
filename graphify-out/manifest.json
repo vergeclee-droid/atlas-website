@@ -1,0 +1,62 @@
+{
+  "assets/js/main.js": {
+    "mtime": 1781203835.170893,
+    "ast_hash": "3f44f5a5752b45ba938762f14bf0d8bb",
+    "semantic_hash": ""
+  },
+  "assets/js/service-detail-i18n.js": {
+    "mtime": 1781209586.5388708,
+    "ast_hash": "a6f22f5eb4d738bb2e914123c382e32c",
+    "semantic_hash": ""
+  },
+  "assets/js/translations.js": {
+    "mtime": 1781471970.8521416,
+    "ast_hash": "3a29445f79094fcd3cd04b16a6ba7abc",
+    "semantic_hash": ""
+  },
+  ".github/workflows/azure-static-web-apps-wonderful-sand-01b75ed00.yml": {
+    "mtime": 1780306792.0961652,
+    "ast_hash": "80bd5736e59319cb2b129ceed16ba55f",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1781471970.8511417,
+    "ast_hash": "03a22f11f99e58a9a35f24f509307ab1",
+    "semantic_hash": ""
+  },
+  "services/ai-innovation.html": {
+    "mtime": 1781471970.8541415,
+    "ast_hash": "cd5f2484ea7f40a96f08469f1b014db5",
+    "semantic_hash": ""
+  },
+  "services/cloud.html": {
+    "mtime": 1781471970.8521416,
+    "ast_hash": "86fccc7e0b56b065b1964e4683f1052c",
+    "semantic_hash": ""
+  },
+  "services/hardware.html": {
+    "mtime": 1781471970.8521416,
+    "ast_hash": "71cf41dc060a053438f7da5fe982032b",
+    "semantic_hash": ""
+  },
+  "services/infrastructure.html": {
+    "mtime": 1781471970.8531415,
+    "ast_hash": "96678319619a6efd3243e6e02aa7db73",
+    "semantic_hash": ""
+  },
+  "services/microsoft-365.html": {
+    "mtime": 1781471970.8541415,
+    "ast_hash": "f3950596eebecd84f1f8e73d7f487d76",
+    "semantic_hash": ""
+  },
+  "services/network-security.html": {
+    "mtime": 1781471970.8531415,
+    "ast_hash": "6db05c86f9ae2ca8760e089fcb91b696",
+    "semantic_hash": ""
+  },
+  "services/professional.html": {
+    "mtime": 1781471970.8531415,
+    "ast_hash": "31b506d8d610c46c3c4e86533a756810",
+    "semantic_hash": ""
+  }
+}

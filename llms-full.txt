@@ -1,0 +1,132 @@
+# Atlas Consulting — Full Company Profile
+
+## Company Overview
+
+**輿圖顧問有限公司 · 亘帛（上海）資訊科技服務有限公司**
+**Altas Consulting Service Co. Ltd**
+
+Founded in 2020 with dual headquarters in Hong Kong and Shanghai, Atlas Consulting is a one-stop IT enterprise solutions provider specializing in systems, networking, security, and cloud services. Our mission is to be the IT bridge for enterprises going global — empowering Chinese enterprises to expand overseas with reliable IT infrastructure, while enabling international enterprises to enter China with localized IT architecture and compliance solutions.
+
+**Key Strengths:**
+- Microsoft Azure Expert Team
+- 7×24 Bilingual Technical Support (Chinese & English)
+- HK & China dual headquarters for cross-border delivery
+- ISO standardized project management
+- 100+ successful projects
+- 20+ certified engineers
+- 98% client satisfaction rate
+
+---
+
+## Services
+
+### 1. AI & Innovation
+Embracing the AI era with cutting-edge solutions:
+- **AI Appliance Solutions** — Pre-configured AI hardware for LLM inference and training
+- **Microsoft Copilot Deployment** — Enterprise-wide Microsoft 365 Copilot rollout and integration
+- **GPU Cluster Deployment** — High-performance GPU infrastructure for AI/ML workloads
+- **Digital Transformation Consulting** — Strategic advisory for AI adoption and digitalization
+- **Virtual Office AI** — AI-powered office automation, agents + humans collaboration
+
+### 2. Cloud Services
+Comprehensive cloud solutions across major platforms (AWS, Azure, Alibaba Cloud, China Telecom Cloud):
+- **Hybrid Cloud Architecture & Deployment** — Multi-cloud and hybrid infrastructure design
+- **Cloud Migration & Optimization** — Lift-and-shift, re-platforming, and cost optimization
+- **PaaS / Virtualization Services** — Platform-as-a-Service and virtualized environments
+- **Cloud Security & Compliance** — Cloud security posture management, compliance frameworks
+
+### 3. Infrastructure
+Enterprise-grade IT infrastructure services:
+- **Server & Storage Architecture** — Design, deployment, and management of server and storage systems
+- **Virtualization & Hyper-Convergence** — VMware, Hyper-V, Nutanix, and HCI solutions
+- **Infrastructure Optimization** — Performance tuning, capacity planning, and cost reduction
+- **Disaster Recovery & Business Continuity** — DR planning, failover testing, and BCP implementation
+- **Multi-site IT Integration** — Consolidation of distributed IT environments
+- **Office Relocation IT Planning** — End-to-end IT migration for office moves
+
+### 4. Network & Security
+Enterprise-grade network and cybersecurity solutions:
+- **SD-WAN / International Network Acceleration** — Optimized WAN connectivity for cross-border operations
+- **Wireless Security Assessment** — Comprehensive Wi-Fi security audits and penetration testing
+- **Fortinet / Aruba Solutions** — Firewall, switching, and wireless solutions from leading vendors
+- **Network Security Audit** — Full security posture assessment and remediation
+- **Structured Cabling** — Physical network infrastructure design and implementation
+- **Firewall Deployment** — Next-generation firewall installation and configuration
+
+### 5. Microsoft 365
+As a Microsoft VAR + Delegated Admin Partner:
+- **M365 Migration & Deployment** — Email, data, and workspace migration to Microsoft 365
+- **SharePoint / OneDrive** — Document management, intranet portals, and collaboration platforms
+- **Teams Unified Communications** — Voice, video, and chat integration
+- **Security & Compliance** — Microsoft Defender, DLP, Information Protection, Conditional Access
+- **Exchange Online** — Email hosting, hybrid deployments, and migration from on-premises
+
+### 6. Hardware & Equipment
+End-to-end IT equipment lifecycle management:
+- **Equipment Procurement & Leasing** — Vendor sourcing, negotiation, and flexible leasing options
+- **Equipment Maintenance & Support** — Warranty management, repair, and refresh cycles
+- **Device Management** — MDM, endpoint management, and asset tracking
+- **Data Erasure Services** — Secure data wiping compliant with international standards (NIST, DoD)
+- **GPU Server Procurement** — Specialized hardware for AI/ML workloads
+
+### 7. Professional Services
+Leveraging 15+ years of industry experience:
+- **IT Consulting & Project Management** — Strategic advisory, project planning, and execution (PMP-certified)
+- **On-Site / Remote Engineer Support** — Flexible support models from L1 to L3
+- **IT Training & Knowledge Transfer** — Custom training programs for client teams
+- **Vendor Management & Procurement** — Multi-vendor coordination and procurement management
+- **IT Audit & Assessment** — Infrastructure, security, and compliance audits
+
+---
+
+## Case Studies
+
+### International Logistics Group
+Full-spectrum IT managed services including office network revamp, cross-region relocation, and cloud acceleration solutions.
+
+### AI Chip Technology Company
+High-performance GPU cluster and InfiniBand network deployment for large-scale AI training and inference workloads.
+
+### Financial Institution
+Secure and compliant Microsoft 365 migration and hybrid cloud architecture for a leading financial institution, meeting regulatory requirements.
+
+### Global Financial Data Group
+China-region IT infrastructure setup and domain migration project for a world-leading financial data provider.
+
+### International Trading Group
+Long-term IT managed services with standardized SOPs and service level agreement management.
+
+### Technology Company
+Comprehensive wireless network security assessment identifying and remediating critical security vulnerabilities.
+
+---
+
+## Partners
+- **Microsoft** — VAR + Delegated Admin Partner
+- **AWS** — Amazon Web Services
+- **China Telecom** — 天翼云 (e-Surfing Cloud)
+- **Aruba HPE** — Networking and wireless solutions
+- **Fortinet** — Cybersecurity solutions
+- **Ingram Micro** — Distribution and logistics
+
+---
+
+## Contact Information
+
+### Hong Kong Office — 輿圖顧問
+**Atlas (HK) Consulting Service Co., Limited**
+Unit 2806, 28/F, Two Sky Parc, 51 Hung To Road, Kwun Tong
+Phone: +852 8490 0947 / +852 9401 9304
+Email: info@atlasconsulting.cn
+
+### Shanghai Office — 亘帛資訊科技
+**亘帛（上海）资讯科技服务有限公司**
+Room 2516, Oriental Investment Building, No. 31 Wujiang Road, Jing'an District, Shanghai
+Phone: +86 158 2110 6096
+Email: info@atlasconsulting.cn
+
+---
+
+## Website
+**URL:** https://www.atlasconsulting.cn/
+**Languages:** 简体中文 (zh-CN), 繁體中文 (zh-TW), English (en)

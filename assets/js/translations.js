@@ -178,6 +178,10 @@ const i18n = {
     'email': '电邮',
     'nav.label': '菜单',
     'demo.cta': '预约演示',
+
+    /* OG / Social */
+    'og.title': '輿圖顧問 · 亘帛資訊科技 | Atlas Consulting — Your IT Bridge to China',
+    'og.description': '一站式IT企业解决方案提供商，助力中国企业出海，护航国际企业进入中国。',
   },
 
   /* ===== Traditional Chinese ===== */
@@ -343,6 +347,10 @@ const i18n = {
     'email': '電郵',
     'nav.label': '選單',
     'demo.cta': '預約演示',
+
+    /* OG / Social */
+    'og.title': '輿圖顧問 · 亘帛資訊科技 | Atlas Consulting — Your IT Bridge to China',
+    'og.description': '一站式IT企業解決方案提供商，助力中國企業出海，護航國際企業進入中國。',
   },
 
   /* ===== English ===== */
@@ -508,6 +516,10 @@ const i18n = {
     'email': 'Email',
     'nav.label': 'Menu',
     'demo.cta': 'Request Demo',
+
+    /* OG / Social */
+    'og.title': 'Atlas Consulting — Your IT Bridge to China',
+    'og.description': 'One-stop IT enterprise solutions provider. Empowering Chinese enterprises to go global, enabling international enterprises to enter China.',
   }
 };
 
@@ -548,6 +560,15 @@ function applyLanguage(lang) {
   } else {
     document.body.style.fontFamily = "var(--font-cn)";
   }
+
+  // Update OG / Twitter meta tags with i18n
+  document.querySelectorAll('[data-i18n-og]').forEach(el => {
+    const key = el.getAttribute('data-i18n-og');
+    const text = getText(key);
+    if (el.hasAttribute('content')) {
+      el.setAttribute('content', text);
+    }
+  });
 }
 
 function initLanguage() {

@@ -1,0 +1,292 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "main.js",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "assets_js_main",
+      "community": 0,
+      "norm_label": "main.js"
+    },
+    {
+      "label": "openNav()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "assets_js_main_opennav",
+      "community": 0,
+      "norm_label": "opennav()"
+    },
+    {
+      "label": "closeNav()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "assets_js_main_closenav",
+      "community": 0,
+      "norm_label": "closenav()"
+    },
+    {
+      "label": "animate()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L160",
+      "_origin": "ast",
+      "id": "assets_js_main_animate",
+      "community": 0,
+      "norm_label": "animate()"
+    },
+    {
+      "label": "validateField()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L188",
+      "_origin": "ast",
+      "id": "assets_js_main_validatefield",
+      "community": 0,
+      "norm_label": "validatefield()"
+    },
+    {
+      "label": "validateName()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L203",
+      "_origin": "ast",
+      "id": "assets_js_main_validatename",
+      "community": 0,
+      "norm_label": "validatename()"
+    },
+    {
+      "label": "validateEmail()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L208",
+      "_origin": "ast",
+      "id": "assets_js_main_validateemail",
+      "community": 0,
+      "norm_label": "validateemail()"
+    },
+    {
+      "label": "validateMessage()",
+      "file_type": "code",
+      "source_file": "assets/js/main.js",
+      "source_location": "L214",
+      "_origin": "ast",
+      "id": "assets_js_main_validatemessage",
+      "community": 0,
+      "norm_label": "validatemessage()"
+    },
+    {
+      "label": "service-detail-i18n.js",
+      "file_type": "code",
+      "source_file": "assets/js/service-detail-i18n.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "assets_js_service_detail_i18n",
+      "community": 2,
+      "norm_label": "service-detail-i18n.js"
+    },
+    {
+      "label": "mergeDetail()",
+      "file_type": "code",
+      "source_file": "assets/js/service-detail-i18n.js",
+      "source_location": "L577",
+      "_origin": "ast",
+      "id": "assets_js_service_detail_i18n_mergedetail",
+      "community": 2,
+      "norm_label": "mergedetail()"
+    },
+    {
+      "label": "translations.js",
+      "file_type": "code",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "assets_js_translations",
+      "community": 1,
+      "norm_label": "translations.js"
+    },
+    {
+      "label": "i18n",
+      "file_type": "code",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "assets_js_translations_i18n",
+      "community": 1,
+      "norm_label": "i18n"
+    },
+    {
+      "label": "getText()",
+      "file_type": "code",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L517",
+      "_origin": "ast",
+      "id": "assets_js_translations_gettext",
+      "community": 1,
+      "norm_label": "gettext()"
+    },
+    {
+      "label": "applyLanguage()",
+      "file_type": "code",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L521",
+      "_origin": "ast",
+      "id": "assets_js_translations_applylanguage",
+      "community": 1,
+      "norm_label": "applylanguage()"
+    },
+    {
+      "label": "initLanguage()",
+      "file_type": "code",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L553",
+      "_origin": "ast",
+      "id": "assets_js_translations_initlanguage",
+      "community": 1,
+      "norm_label": "initlanguage()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_animate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_closenav",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_opennav",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_validateemail",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_validatefield",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_validatemessage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/main.js",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "assets_js_main",
+      "target": "assets_js_main_validatename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/service-detail-i18n.js",
+      "source_location": "L577",
+      "weight": 1.0,
+      "source": "assets_js_service_detail_i18n",
+      "target": "assets_js_service_detail_i18n_mergedetail",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L521",
+      "weight": 1.0,
+      "source": "assets_js_translations",
+      "target": "assets_js_translations_applylanguage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L517",
+      "weight": 1.0,
+      "source": "assets_js_translations",
+      "target": "assets_js_translations_gettext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "assets_js_translations",
+      "target": "assets_js_translations_i18n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L553",
+      "weight": 1.0,
+      "source": "assets_js_translations",
+      "target": "assets_js_translations_initlanguage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "assets/js/translations.js",
+      "source_location": "L556",
+      "weight": 1.0,
+      "source": "assets_js_translations_initlanguage",
+      "target": "assets_js_translations_applylanguage",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "4b279d7617e578b5517978409680f55fd6876047"
+}
