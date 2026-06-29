@@ -1,0 +1,247 @@
+{
+  "nodes": [
+    {
+      "id": "js_main",
+      "label": "main.js",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_opennav",
+      "label": "openNav()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_closenav",
+      "label": "closeNav()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_animate",
+      "label": "animate()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L160",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_validatefield",
+      "label": "validateField()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L188",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_validatename",
+      "label": "validateName()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L203",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_validateemail",
+      "label": "validateEmail()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L208",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_main_validatemessage",
+      "label": "validateMessage()",
+      "file_type": "code",
+      "source_file": "js/main.js",
+      "source_location": "L214",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_service_detail_i18n",
+      "label": "service-detail-i18n.js",
+      "file_type": "code",
+      "source_file": "js/service-detail-i18n.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_service_detail_i18n_mergedetail",
+      "label": "mergeDetail()",
+      "file_type": "code",
+      "source_file": "js/service-detail-i18n.js",
+      "source_location": "L577",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_translations",
+      "label": "translations.js",
+      "file_type": "code",
+      "source_file": "js/translations.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_translations_i18n",
+      "label": "i18n",
+      "file_type": "code",
+      "source_file": "js/translations.js",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_translations_gettext",
+      "label": "getText()",
+      "file_type": "code",
+      "source_file": "js/translations.js",
+      "source_location": "L517",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_translations_applylanguage",
+      "label": "applyLanguage()",
+      "file_type": "code",
+      "source_file": "js/translations.js",
+      "source_location": "L521",
+      "_origin": "ast"
+    },
+    {
+      "id": "js_translations_initlanguage",
+      "label": "initLanguage()",
+      "file_type": "code",
+      "source_file": "js/translations.js",
+      "source_location": "L553",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "js_main",
+      "target": "js_main_opennav",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_closenav",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_animate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L160",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_validatefield",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L188",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_validatename",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L203",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_validateemail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L208",
+      "weight": 1.0
+    },
+    {
+      "source": "js_main",
+      "target": "js_main_validatemessage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/main.js",
+      "source_location": "L214",
+      "weight": 1.0
+    },
+    {
+      "source": "js_service_detail_i18n",
+      "target": "js_service_detail_i18n_mergedetail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/service-detail-i18n.js",
+      "source_location": "L577",
+      "weight": 1.0
+    },
+    {
+      "source": "js_translations",
+      "target": "js_translations_i18n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/translations.js",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "js_translations",
+      "target": "js_translations_gettext",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/translations.js",
+      "source_location": "L517",
+      "weight": 1.0
+    },
+    {
+      "source": "js_translations",
+      "target": "js_translations_applylanguage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/translations.js",
+      "source_location": "L521",
+      "weight": 1.0
+    },
+    {
+      "source": "js_translations",
+      "target": "js_translations_initlanguage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "js/translations.js",
+      "source_location": "L553",
+      "weight": 1.0
+    },
+    {
+      "source": "js_translations_initlanguage",
+      "target": "js_translations_applylanguage",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "js/translations.js",
+      "source_location": "L556",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

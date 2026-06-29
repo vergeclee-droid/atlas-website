@@ -1,0 +1,17 @@
+{
+  "js/main.js": {
+    "mtime": 1781203835.170893,
+    "ast_hash": "3f44f5a5752b45ba938762f14bf0d8bb",
+    "semantic_hash": "3f44f5a5752b45ba938762f14bf0d8bb"
+  },
+  "js/service-detail-i18n.js": {
+    "mtime": 1781209586.5388708,
+    "ast_hash": "a6f22f5eb4d738bb2e914123c382e32c",
+    "semantic_hash": "a6f22f5eb4d738bb2e914123c382e32c"
+  },
+  "js/translations.js": {
+    "mtime": 1781471970.8521416,
+    "ast_hash": "3a29445f79094fcd3cd04b16a6ba7abc",
+    "semantic_hash": "3a29445f79094fcd3cd04b16a6ba7abc"
+  }
+}

@@ -1,0 +1,7 @@
+assets/images
+assets/favicon
+*.md
+*.txt
+*.png
+*.jpg
+*.svg
